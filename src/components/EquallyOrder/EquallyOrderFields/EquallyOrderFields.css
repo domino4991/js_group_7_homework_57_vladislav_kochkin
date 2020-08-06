@@ -1,0 +1,49 @@
+.equally-order-fields {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.equally-order-fields input {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #4fc3f7;
+    margin-left: 20px;
+    outline: none;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+.equally-order-fields input:hover,
+.equally-order-btn:hover {
+    border-radius: 10px;
+    box-shadow: 0 2px 2px 1px rgba(79, 195, 247, 0.5);
+}
+
+.equally-order-fields input:focus {
+    border-radius: 10px;
+    box-shadow: 0 2px 2px 1px rgba(79, 195, 247, 0.5);
+}
+
+.input-wrap {
+    margin: 0 auto 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.equally-order-btn {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #0277bd;
+    cursor: pointer;
+    padding: 15px;
+    transition: 0.5s;
+    font-weight: bold;
+    outline: none;
+}
+
+.equally-order-btn:active {
+    transform: scale(0.9);
+}
