@@ -1,0 +1,8 @@
+.switches {
+    text-align: center;
+}
+
+.switches-radio {
+    margin: 0 10px;
+    cursor: pointer;
+}
