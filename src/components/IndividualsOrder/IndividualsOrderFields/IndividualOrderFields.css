@@ -1,0 +1,23 @@
+.individual-add-field {
+    margin: 30px auto;
+    background: transparent;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.inputs-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputs-group input {
+    margin: 10px 0 10px 10px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+
+

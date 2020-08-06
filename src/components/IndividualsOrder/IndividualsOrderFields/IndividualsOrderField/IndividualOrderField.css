@@ -1,0 +1,18 @@
+.individual-field {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.individual-field input {
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+.individual-remove-btn {
+    background: transparent;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

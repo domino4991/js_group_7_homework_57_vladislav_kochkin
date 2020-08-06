@@ -1,0 +1,18 @@
+.individual-total-price {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.individual-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.individual-list__item {
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+    margin: 10px auto;
+}
